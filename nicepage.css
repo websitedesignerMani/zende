@@ -32922,11 +32922,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-image-1 {
-    width: auto;
-    height: auto;
-  }
-
   .u-header .u-menu-1 {
     margin-right: calc(((100% - 720px) / 2));
   }
@@ -32934,7 +32929,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     width: auto;
-    height: 32px;
   }
 
   .u-header .u-menu-1 {
