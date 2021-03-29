@@ -56,7 +56,7 @@
 }
 
 .u-section-1 .u-text-4 {
-  margin: -70px auto 0 39px;
+  margin: -60px auto 0 30px;
 }
 
 @media (max-width: 1199px) {
@@ -256,7 +256,7 @@
 }
 
 .u-section-2 .u-text-1 {
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 0;
 }
 
@@ -513,7 +513,7 @@
 }
 
 .u-section-3 .u-text-1 {
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 0;
 }
 
@@ -732,7 +732,7 @@
 }
 
 .u-section-4 .u-text-1 {
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   margin: 38px 334px 0 380px;
 }
@@ -758,7 +758,7 @@
 
 .u-section-4 .u-text-2 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 28px 257px 0 0;
 }
 
@@ -777,7 +777,7 @@
 
 .u-section-4 .u-text-4 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 28px 257px 0 0;
 }
 
@@ -796,7 +796,7 @@
 
 .u-section-4 .u-text-6 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 28px 257px 0 0;
 }
 
@@ -985,7 +985,7 @@
   }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 300px) {
   .u-section-4 .u-text-1 {
     width: 320px;
     margin-top: 45px;
@@ -1053,7 +1053,7 @@
 
 .u-section-5 .u-text-1 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 16px 257px 0 0;
 }
 
@@ -1074,7 +1074,7 @@
 
 .u-section-5 .u-text-3 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 16px 257px 0 0;
 }
 
@@ -1095,7 +1095,7 @@
 
 .u-section-5 .u-text-5 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 16px 257px 0 0;
 }
 
@@ -1318,7 +1318,7 @@
 
 .u-section-6 .u-text-1 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 16px 257px 0 0;
 }
 
@@ -1339,7 +1339,7 @@
 
 .u-section-6 .u-text-3 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 16px 257px 0 0;
 }
 
@@ -1360,7 +1360,7 @@
 
 .u-section-6 .u-text-5 {
   font-weight: 400;
-  font-family: Mako;
+  font-family: 'Poppins', sans-serif;
   margin: 16px 257px 0 0;
 }
 
@@ -1765,7 +1765,7 @@
 }
 
 .u-section-8 .u-text-1 {
-  font-size: 3.75rem;
+  font-size: 3.25rem;
   width: 565px;
   text-decoration: underline !important;
   margin: 0 auto;
@@ -2018,8 +2018,8 @@
 }
 
 .u-section-10 .u-text-1 {
-  font-size: 4.5rem;
-  font-family: Mako;
+  font-size: 4.1rem;
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   margin: -565px 401px 0;
 }
