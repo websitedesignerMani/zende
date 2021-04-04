@@ -12,6 +12,8 @@
   min-height: 633px;
   background-image: url("images/dayar.jpg");
   background-position: 50% 50%;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -71,6 +73,8 @@
 
   .u-section-1 .u-image-1 {
     min-height: 440px;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -97,6 +101,8 @@
 
   .u-section-1 .u-image-1 {
     min-height: 489px;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -136,6 +142,8 @@
   .u-section-1 .u-image-1 {
     min-height: 562px;
     order: 1;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -182,6 +190,8 @@
 
   .u-section-1 .u-image-1 {
     min-height: 428px;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -229,6 +239,8 @@
 .u-section-2 .u-image-1 {
   height: 542px;
   margin: 0 auto 0 0;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-2 .u-layout-cell-2 {
@@ -298,6 +310,8 @@
     height: 447px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -309,6 +323,8 @@
     width: 294px;
     margin-top: 20px;
     margin-left: -81px;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-2 .u-layout-cell-3 {
@@ -340,6 +356,8 @@
     height: 359px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -356,6 +374,8 @@
     width: 229px;
     margin-top: 87px;
     margin-left: -72px;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-2 .u-layout-cell-3 {
@@ -394,6 +414,8 @@
     margin-top: 4px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -409,6 +431,8 @@
     width: 408px;
     margin-top: -236px;
     margin-left: auto;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-2 .u-layout-cell-3 {
@@ -446,6 +470,8 @@
     height: 500px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -455,7 +481,9 @@
   .u-section-2 .u-image-2 {
     height: 345px;
     width: 286px;
-  }
+    border-style: solid;
+    border-color: black;
+      }
 
   .u-section-2 .u-btn-1 {
     margin-top: 20px;
@@ -486,6 +514,8 @@
 .u-section-3 .u-image-1 {
   height: 542px;
   margin: 0 auto 0 0;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-3 .u-layout-cell-2 {
@@ -502,6 +532,8 @@
   width: 349px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 0 auto 0 -87px;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-3 .u-layout-cell-3 {
@@ -529,6 +561,7 @@
   background-image: none;
   font-weight: 700;
   margin: 32px auto 0 0;
+
 }
 
 @media (max-width: 1199px) {
@@ -555,6 +588,8 @@
     height: 447px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -566,6 +601,8 @@
     width: 294px;
     margin-top: 20px;
     margin-left: -81px;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -597,6 +634,8 @@
     height: 359px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -613,6 +652,8 @@
     width: 229px;
     margin-top: 87px;
     margin-left: -72px;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -651,6 +692,8 @@
     margin-top: 4px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -665,7 +708,9 @@
     height: 437px;
     width: 408px;
     margin-top: -236px;
-    margin-left: auto;
+    margin-left: auto
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -712,6 +757,8 @@
   .u-section-3 .u-image-2 {
     height: 345px;
     width: 286px;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-3 .u-btn-1 {
@@ -720,6 +767,8 @@
 }.u-section-4 {
   background-image: none;
   min-height: 769px;
+   border-style: solid;
+   border-color: black;
 }
 
 .u-section-4 .u-group-1 {
@@ -754,6 +803,8 @@
 .u-section-4 .u-image-1 {
   height: 305px;
   margin: 0 auto 0 0;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-4 .u-text-2 {
@@ -773,6 +824,8 @@
 .u-section-4 .u-image-2 {
   height: 305px;
   margin: 0 auto 0 0;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-4 .u-text-4 {
@@ -792,6 +845,8 @@
 .u-section-4 .u-image-3 {
   height: 305px;
   margin: 0 auto 0 0;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-4 .u-text-6 {
@@ -832,6 +887,8 @@
     height: 241px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-text-2 {
@@ -848,6 +905,8 @@
     height: 241px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-text-4 {
@@ -864,6 +923,8 @@
     height: 241px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-text-6 {
@@ -896,6 +957,8 @@
     height: 285px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-text-2 {
@@ -910,6 +973,8 @@
     height: 285px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-text-4 {
@@ -960,6 +1025,8 @@
     height: 494px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-container-layout-3 {
@@ -971,6 +1038,8 @@
     height: 494px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-container-layout-4 {
@@ -982,6 +1051,8 @@
     height: 494px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 }
 
@@ -1001,18 +1072,24 @@
     height: 304px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-image-2 {
     height: 304px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 
   .u-section-4 .u-image-3 {
     height: 304px;
     margin-right: initial;
     margin-left: initial;
+    border-style: solid;
+    border-color: black;
   }
 }.u-section-5 {
   background-image: none;
@@ -1055,6 +1132,12 @@
   font-weight: 400;
   font-family: 'Poppins', sans-serif;
   margin: 16px 257px 0 0;
+
+  text-align: center;
+}
+.u-section-5 .products{
+  text-align: center;
+  margin-right: 31%;
 }
 
 .u-section-5 .u-text-2 {
@@ -1124,7 +1207,10 @@
   }
 
   .u-section-5 .u-text-1 {
-    margin-right: 57px;
+
+    margin-right: 147px;
+
+    text-align: justify;
   }
 
   .u-section-5 .u-text-2 {
@@ -1182,7 +1268,10 @@
   }
 
   .u-section-5 .u-text-1 {
-    margin-right: 0;
+
+    margin-right: 90px;
+
+    text-align: justify;
   }
 
   .u-section-5 .u-text-2 {
@@ -2048,9 +2137,10 @@
 }
 
 .u-section-10 .u-text-2 {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 2.25rem;
   margin: 0 307px 0 0;
+
 }
 
 .u-section-10 .u-text-3 {
@@ -2306,12 +2396,16 @@
   background-image: url("images/flat-lay-person-working-architectural-project_23-2148540137.jpg");
   min-height: 319px;
   background-position: 50% 50%;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-11 .u-image-2 {
   background-image: url("images/close-up-modern-office-buildings-shanghai_1359-796.jpg");
   min-height: 340px;
   background-position: 50% 50%;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-11 .u-layout-cell-4 {
@@ -2337,12 +2431,16 @@
   min-height: 340px;
   background-image: url("images/low-angle-shot-corner-high-business-building_181624-1472.jpg");
   background-position: 50% 50%;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-11 .u-image-4 {
   min-height: 383px;
-  background-image: url("images/architects-hold-building-plan-check-work_1150-24337.jpg");
+  background-image: url("images/accountant.jpg");
   background-position: 50% 50%;
+  border-style: solid;
+  border-color: black;
 }
 
 .u-section-11 .u-layout-cell-7 {
