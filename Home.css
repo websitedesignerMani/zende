@@ -2949,3 +2949,18 @@
   text-align: right;
 
 }
+.u-section-14 {
+  min-height: 351px;
+  min-width: 200px;
+  background-color: black;
+}
+.carona {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: #476E10;
+  padding: 10px;
+  border-radius: 50px 20px;
+}
